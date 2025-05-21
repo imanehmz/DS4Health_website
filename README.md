@@ -1,4 +1,2 @@
-# Deep Learning IndabaX Guinee
-Official repository of the IndabaX Guinee website.
-
-[Deep Learning IndabaX Guinee](https://indabax-guinea.github.io)
+# Data Science For Health in Africa Workshop Website
+Official repository of the DS4H in Africa website.
